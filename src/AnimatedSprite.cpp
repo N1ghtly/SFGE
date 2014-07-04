@@ -1,8 +1,8 @@
-#include "AnimatedSprite.h"
+#include <SFGE/Core/AnimatedSprite.h>
 
 namespace sfge
 {
-    AnimatedSprite::AnimatedSprite() : looping(false), currentAnimation("")
+    AnimatedSprite::AnimatedSprite() : currentAnimation(""), looping(false)
     {
         //ctor
     }

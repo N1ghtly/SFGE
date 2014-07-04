@@ -1,4 +1,4 @@
-#include "Label.h"
+#include <SFGE/Gui/Label.h>
 
 namespace sfge
 {

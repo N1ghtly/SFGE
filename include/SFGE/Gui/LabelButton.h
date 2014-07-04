@@ -1,7 +1,7 @@
 #ifndef LABELBUTTON_H
 #define LABELBUTTON_H
 #include <functional>
-#include "Label.h"
+#include <SFGE/Gui/Label.h>
 
 
 namespace sfge

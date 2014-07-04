@@ -1,4 +1,4 @@
-#include "ResourceManager.h"
+#include <SFGE/Core/ResourceManager.h>
 #include <iostream>
 
 sfge::ResourceManager* sfge::ResourceManager::mgr = 0;

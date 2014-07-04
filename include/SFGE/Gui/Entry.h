@@ -1,7 +1,7 @@
 #ifndef ENTRY_H
 #define ENTRY_H
 #include <SFML/Graphics.hpp>
-#include "Node.h"
+#include <SFGE/Core/Node.h>
 
 namespace sfge
 {

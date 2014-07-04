@@ -1,7 +1,7 @@
-#include "Director.h"
-#include "State.h"
+#include <SFGE/Core/Director.h>
+#include <SFGE/Core/State.h>
 #include <iostream>
-#include "FileLogger.h"
+#include <SFGE/Util/FileLogger.h>
 
 namespace sfge
 {

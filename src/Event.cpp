@@ -1,4 +1,4 @@
-#include "Event.h"
+#include <SFGE/Core/Event.h>
 
 namespace sfge
 {

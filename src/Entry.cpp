@@ -1,4 +1,4 @@
-#include "Entry.h"
+#include <SFGE/Gui/Entry.h>
 
 namespace sfge
 {

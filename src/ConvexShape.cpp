@@ -1,4 +1,4 @@
-#include "ConvexShape.h"
+#include <SFGE/Core/ConvexShape.h>
 
 namespace sfge
 {

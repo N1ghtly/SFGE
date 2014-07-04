@@ -1,7 +1,7 @@
 #ifndef SHAPENODE_H
 #define SHAPENODE_H
 
-#include "Node.h"
+#include <SFGE/Core/Node.h>
 
 namespace sfge
 {

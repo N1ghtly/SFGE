@@ -1,6 +1,6 @@
-#include "Node.h"
+#include <SFGE/Core/Node.h>
 #include <algorithm>
-#include "FileLogger.h"
+#include <SFGE/Util/FileLogger.h>
 
 namespace sfge
 {
@@ -10,7 +10,7 @@ namespace sfge
 
     }
 
-    Node::Node(const std::string& name) : name(name), parent(NULL), z(0), window(NULL)
+    Node::Node(const std::string& name) : parent(NULL), window(NULL), name(name), z(0)
     {
         //ctor
     }
@@ -22,7 +22,6 @@ namespace sfge
             FileLogger::log("deleting node: " + node->getName());
             delete node;
         }
-
     }
 
     std::string Node::getName()

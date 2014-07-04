@@ -1,8 +1,8 @@
 #ifndef SPRITENODE_H
 #define SPRITENODE_H
 #include <SFML/Graphics.hpp>
-#include "ResourceManager.h"
-#include "Node.h"
+#include <SFGE/Core/ResourceManager.h>
+#include <SFGE/Core/Node.h>
 
 namespace sfge
 {

@@ -1,4 +1,4 @@
-#include "FileLogger.h"
+#include <SFGE/Util/FileLogger.h>
 
 std::ofstream sfge::FileLogger::file;
 

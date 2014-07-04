@@ -1,7 +1,7 @@
 #ifndef LABEL_H
 #define LABEL_H
 #include <SFML/Graphics/Text.hpp>
-#include "Node.h"
+#include <SFGE/Core/Node.h>
 
 namespace sfge
 {

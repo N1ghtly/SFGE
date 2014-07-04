@@ -1,4 +1,4 @@
-#include "LabelButton.h"
+#include <SFGE/Gui/LabelButton.h>
 
 namespace sfge
 {

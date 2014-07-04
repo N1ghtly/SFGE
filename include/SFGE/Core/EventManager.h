@@ -4,7 +4,7 @@
 #include <string>
 #include <functional>
 #include <queue>
-#include "Event.h"
+#include <SFGE/Core/Event.h>
 
 #define em sfge::EventManager::instance()
 

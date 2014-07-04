@@ -1,4 +1,4 @@
-#include "EventManager.h"
+#include <SFGE/Core/EventManager.h>
 
 sfge::EventManager* sfge::EventManager::eventManager = 0;
 

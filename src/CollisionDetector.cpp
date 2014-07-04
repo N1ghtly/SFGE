@@ -1,5 +1,5 @@
-#include "CollisionDetector.h"
-#include "CollidableNode.h"
+#include <SFGE/Core/CollisionDetector.h>
+#include <SFGE/Core/CollidableNode.h>
 #include <iostream>
 
 

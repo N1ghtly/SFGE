@@ -1,4 +1,4 @@
-#include "SpriteNode.h"
+#include <SFGE/Core/SpriteNode.h>
 
 namespace sfge
 {

@@ -1,4 +1,4 @@
-#include "ShapeNode.h"
+#include <SFGE/Core/ShapeNode.h>
 
 namespace sfge
 {

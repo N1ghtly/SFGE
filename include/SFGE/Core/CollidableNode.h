@@ -1,7 +1,7 @@
 #ifndef CONVEXCOLLIDABLE_H
 #define CONVEXCOLLIDABLE_H
-#include "ConvexShape.h"
-#include "Node.h"
+#include <SFGE/Core/ConvexShape.h>
+#include <SFGE/Core/Node.h>
 
 namespace sfge
 {

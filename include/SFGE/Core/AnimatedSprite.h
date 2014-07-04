@@ -1,6 +1,6 @@
 #ifndef ANIMATEDSPRITE_H
 #define ANIMATEDSPRITE_H
-#include "Animation.h"
+#include <SFGE/Core/Animation.h>
 #include <SFML/Graphics.hpp>
 
 namespace sfge

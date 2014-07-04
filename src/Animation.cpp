@@ -1,4 +1,4 @@
-#include "Animation.h"
+#include <SFGE/Core/Animation.h>
 
 namespace sfge
 {

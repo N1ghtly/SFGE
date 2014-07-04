@@ -1,8 +1,8 @@
 #ifndef STATE_H
 #define STATE_H
-#include "Director.h"
-#include "ResourceManager.h"
-#include "Node.h"
+#include <SFGE/Core/Director.h>
+#include <SFGE/Core/ResourceManager.h>
+#include <SFGE/Core/Node.h>
 
 namespace sfge
 {

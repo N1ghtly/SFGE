@@ -9,7 +9,7 @@
 /// @code
 /// #include <SFML/Graphics.hpp>
 /// #include <SFGE/Director.h>
-/// #include "MenuState.h"
+/// #include <SFGE/Core/MenuState.h>
 ///
 /// int main()
 /// {
